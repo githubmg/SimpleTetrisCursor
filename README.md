@@ -3,6 +3,10 @@
 A simple Tetris implementation using Pygame.
 This game was created as a learning exercise for Pygame with ChatGPT (o1-preview) and cursor in less than half an hour.
 
+
+<img src="tetris.gif" width="200px" alt="Animation Description">
+
+
 ## Prerequisites
 
 - Python 3.8 or higher
