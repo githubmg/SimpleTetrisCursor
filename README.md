@@ -60,6 +60,7 @@ To update dependencies:
 poetry update
 ```
 
-
-<img src="tetris.gif" width="200px" alt="Animation Description">
+<div align="center">
+  <img src="tetris.gif" width="200px" alt="Tetris Game Animation">
+</div>
 
